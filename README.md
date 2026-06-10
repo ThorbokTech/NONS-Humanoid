@@ -1,6 +1,6 @@
 <p align="center">
   <img src="NONS%20fond%20transparent%20arg%20R%20bl.png" width="350"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:80px;"></span>
   <img src="thorbok%20tech%20fond%20noir%20avec%20R%20blanc.jpg" width="350"/>
 </p>
 
