@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="NONS%20fond%20transparent%20arg%20R%20bl.png" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="thorbok%20tech%20fond%20transparent%20point%20blanc.png" width="250"/>
+</p>
+
 # 🤖 NONS Humanoid
 ## Next-generation Operative Neural System
 
