@@ -54,4 +54,3 @@ The world's first NONS Humanoid detective.
 
 ## ⚖️ Legal
 **Copyright 2026 Mason Ewing, Thorbok Tech. All Rights Reserved.**
-**Patent Pending.**
