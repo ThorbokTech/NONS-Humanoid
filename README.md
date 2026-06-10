@@ -1,12 +1,11 @@
 <p align="center">
   <img src="NONS%20fond%20transparent%20arg%20R%20bl.png" width="350"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="thorbok%20tech%20fond%20noir%20avec%20R%20blanc.jpg" width="350"/>
 </p>
 
 # 🤖 NONS Humanoid
 ## Next-generation Operative Neural System
-
 **Invented by Mason Ewing, Thorbok Tech © 2026. All Rights Reserved.**
 
 ---
