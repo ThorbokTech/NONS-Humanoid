@@ -1,7 +1,6 @@
 <p align="center">
   <img src="NONS%20fond%20transparent%20arg%20R%20bl.png" width="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="thorbok%20tech%20fond%20noir%20avec%20R%20blanc.jpg" width="350"/>
 </p>
 
 <br><br>
@@ -37,8 +36,14 @@ The world's first NONS Humanoid detective.
 ---
 
 ## 🏛️ Partnership
-**Thorbok Tech × Ewing Tech Law Group (ETLG)**
 
+<table>
+<tr>
+<td><img src="thorbok%20tech%20fond%20noir%20avec%20R%20blanc.jpg" width="200"/></td>
+<td valign="middle" align="center"><strong>Thorbok Tech × Ewing Tech Law Group (ETLG)</strong></td>
+<td><img src="etlg-logo.jpg" width="200"/></td>
+</tr>
+</table>
 ---
 
 ## 🔗 Links
