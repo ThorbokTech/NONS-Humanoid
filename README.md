@@ -1,7 +1,7 @@
 # 🤖 NONS Humanoid
 ## Next-generation Operative Neural System
 
-**Invented by Mason Ewing — Thorbok Tech © 2026. All Rights Reserved.**
+**Invented by Mason Ewing, Thorbok Tech © 2026. All Rights Reserved.**
 
 ---
 
@@ -40,5 +40,5 @@ The world's first NONS Humanoid detective.
 ---
 
 ## ⚖️ Legal
-**Copyright 2026 Mason Ewing — Thorbok Tech. All Rights Reserved.**
+**Copyright 2026 Mason Ewing, Thorbok Tech. All Rights Reserved.**
 **Patent Pending.**
